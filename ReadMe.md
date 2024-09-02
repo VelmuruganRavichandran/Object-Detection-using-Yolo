@@ -13,7 +13,9 @@ The Bike Helmet Detection project leverages the power of YOLO (You Only Look Onc
 - **ultralytics**: YOLO implementation library
 
 ## Dataset Information
-## Download the dataset from drive and upload it on your drive the use google colab for opening the .ipynb file because colab gives support of GPU for training that is faster than CPU training so use colab.
+
+Download the dataset from drive and upload it on your drive the use google colab for opening the .ipynb file because colab gives support of GPU for training that is faster than CPU training so use colab.
+
 The dataset used for this project consists of images categorized into:
 
 - **Training**: Contains images and labels for training the model
