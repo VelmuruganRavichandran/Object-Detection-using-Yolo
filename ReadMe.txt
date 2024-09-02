@@ -1,1 +1,0 @@
-Download the dataset from drive and upload it on your drive the use google colab for opening the .ipynb file because colab gives support of GPU for training that is faster than CPU training so use colab.
